@@ -1,0 +1,22 @@
+Name	Completeness_General	Contamination	Completeness_Specific	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Additional_Notes
+P15MS_consensus	92.79	4.79	88.98	Neural Network (Specific Model)	11	0.882	1870817	275.3967963	2040764	0.32	2185	None
+P15_MpT1_consensus	95.26	15.31	95.79	Neural Network (Specific Model)	11	0.865	85571	247.0638701	3147256	0.45	3695	None
+P20_consensus	92.28	0.33	95.98	Neural Network (Specific Model)	11	0.882	1802126	287.1149706	1991374	0.32	2044	None
+P31_consensus	97.85	0.57	98.55	Neural Network (Specific Model)	11	0.896	1523163	297.595457	1839168	0.31	1849	None
+P32_consensus	97.81	0.24	97.6	Neural Network (Specific Model)	11	0.886	587618	300.1451213	2047584	0.32	2019	None
+P45_consensus	97.25	4.34	99.26	Neural Network (Specific Model)	11	0.881	1191016	288.6334756	2067117	0.31	2109	None
+P46_consensus	92.48	7.84	91.71	Neural Network (Specific Model)	11	0.872	332276	269.7271347	2436010	0.32	2635	None
+P48_consensus	95.15	0.12	93.27	Neural Network (Specific Model)	11	0.884	1817258	284.0574769	1973989	0.34	2053	None
+P51_consensus	61.26	7.44	67.17	Gradient Boost (General Model)	11	0.842	64731	224.5014639	2986639	0.42	3757	None
+P51_stadt_consensus	92.44	12.47	81.73	Gradient Boost (General Model)	11	0.819	145647	238.5605096	3140904	0.37	3611	None
+P61_consensus	96.32	4.35	93.61	Neural Network (Specific Model)	11	0.871	341931	262.4902649	2821054	0.36	3133	None
+P66_consensus	96.55	35.6	98.74	Neural Network (Specific Model)	11	0.879	241467	273.2983719	2971054	0.31	3194	None
+P82MpT1_sans_C_consensus	91.86	1.73	76.09	Neural Network (Specific Model)	11	0.879	441952	277.9624639	1965206	0.31	2078	None
+P82_consensus	66.84	4.79	59.17	Gradient Boost (General Model)	11	0.854	85208	239.2298137	2692962	0.42	3220	None
+P86_BT_consensus	97.18	2.59	99.03	Neural Network (Specific Model)	11	0.896	1214561	312.9118832	2076911	0.31	1986	None
+P86_sans_C_consensus	95.1	0.23	92.1	Neural Network (Specific Model)	11	0.889	1301241	293.6209897	1817283	0.31	1839	None
+P88_consensus	91.25	5.93	88.73	Neural Network (Specific Model)	11	0.887	1239495	271.730137	2007034	0.33	2190	None
+P89_consensus	94.89	0.92	95.53	Neural Network (Specific Model)	11	0.896	582183	307.2494908	2017222	0.3	1964	None
+VRP32_MS_Bt_consensus	97.8	1.03	97.75	Neural Network (Specific Model)	11	0.893	1862516	299.1060851	1862516	0.31	1857	None
+VRP86_MS_Bt_consensus	100	0.72	99.55	Neural Network (Specific Model)	11	0.897	1372777	309.8373279	2029211	0.3	1961	None
+VRP86_MS_sans_C_consensus	99.26	0.85	99.9	Neural Network (Specific Model)	11	0.9	1651367	307.8218715	1817523	0.31	1774	None
