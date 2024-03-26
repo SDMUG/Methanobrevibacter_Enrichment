@@ -3,7 +3,7 @@
 # Load AlphaFold environment
 module load alphafold
 export SINGULARITY_LOCALCACHEDIR=$SCRATCH_LOCAL
-DB_PATH="path/where/alphafold/is"
+DB_PATH="{path/where/alphafold/is}"
 
 # inputs
 input="${1}"  # sequence name without .fasta suffix 
