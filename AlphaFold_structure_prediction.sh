@@ -1,7 +1,7 @@
 ## to be used in slurm system
 
 # Load AlphaFold environment
-module load alphafold
+module load alphafold #install from https://github.com/google-deepmind/alphafold
 export SINGULARITY_LOCALCACHEDIR=$SCRATCH_LOCAL
 DB_PATH="{path/where/alphafold/is}"
 
