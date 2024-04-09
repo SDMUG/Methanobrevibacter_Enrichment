@@ -6,5 +6,9 @@ The following data are made public for the publication:
 *Flowcharts of all samples showing workflow from each individual sample obtained
 *Used scripts
 *phylogenetic tree: ANI values and matrix 
-*Nanopore: - all contigs; - kraken2 bracken reports, - GTbtk checkM summary, - quality report
+*Nanopore: 
+  all contigs 
+    kraken2 bracken reports 
+    GTbtk checkM summary
+    quality report
 *Metabolic prediction output
