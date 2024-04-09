@@ -1,6 +1,8 @@
 # Methanobrevibacter_Enrichment
 Expanding the cultivated human archaeome by targeted isolation of novel Methanobrevibacter strains from fecal samples 
 
+The following data are made public for the publication:
+
 * Flowcharts of all samples showing workflow from each individual sample obtained
 * Used scripts
 * Phylogenetic tree:
