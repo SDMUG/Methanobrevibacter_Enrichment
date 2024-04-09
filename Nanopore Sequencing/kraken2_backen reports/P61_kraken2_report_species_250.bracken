@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii	31	S	21756	7198	28954	0.72251
+Methanobrevibacter_A smithii_A	34	S	286	71	357	0.00891
+Parabacteroides distasonis	3438	S	6912	563	7475	0.18653
+Bacteroides salyersiae	2197	S	243	785	1028	0.02565
+Prevotella lascolaii	1819	S	106	709	815	0.02034
+Atopobium minutum	5454	S	925	9	934	0.02331
+UMGS1663 sp900753245	5719	S	295	28	323	0.00806
+UMGS75 sp900538885	1550	S	181	2	183	0.00457

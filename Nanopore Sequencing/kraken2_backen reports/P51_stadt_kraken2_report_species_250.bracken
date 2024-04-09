@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanosphaera stadtmanae	33	S	20712	698	21410	0.52598
+Escherichia coli_D	3516	S	3533	10730	14263	0.35040
+Bacteroides cellulosilyticus	3457	S	778	488	1266	0.03110
+Phocaeicola dorei	3484	S	169	213	382	0.00938
+Parabacteroides distasonis	3438	S	729	206	935	0.02297
+Gordonibacter pamelaeae	3494	S	720	669	1389	0.03412
+S5-A14a sp000758905	4866	S	547	240	787	0.01933
+F0422 sp003999875	4251	S	180	89	269	0.00661

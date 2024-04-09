@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii	31	S	41712	16330	58042	0.83997
+Methanobrevibacter_A smithii_A	34	S	4982	1521	6503	0.09411
+Eggerthella lenta	3564	S	2727	818	3545	0.05130
+CAG-269 sp900556945	1668	S	727	2	729	0.01055
+UMGS75 sp900538885	1550	S	277	2	279	0.00404

@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii	31	S	52110	17322	69432	0.93196
+Methanobrevibacter_A smithii_A	34	S	912	238	1150	0.01544
+Phocaeicola dorei	3484	S	1077	743	1820	0.02443
+Eggerthella lenta	3564	S	1208	432	1640	0.02201
+UMGS75 sp900538885	1550	S	443	14	457	0.00613

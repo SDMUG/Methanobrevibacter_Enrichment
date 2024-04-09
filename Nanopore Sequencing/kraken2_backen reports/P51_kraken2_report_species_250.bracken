@@ -1,0 +1,8 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Escherichia coli_D	3516	S	4119	10695	14814	0.56177
+Escherichia fergusonii	3525	S	102	247	349	0.01323
+Bacteroides cellulosilyticus	3457	S	920	716	1636	0.06204
+Gordonibacter pamelaeae	3494	S	189	168	357	0.01354
+F0422 sp003999875	4251	S	218	148	366	0.01388
+Methanobrevibacter_A smithii_A	34	S	5628	2774	8402	0.31862
+Methanobrevibacter_A smithii	31	S	262	180	442	0.01676

@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii	31	S	15038	7298	22336	0.73056
+Methanobrevibacter_A smithii_A	34	S	189	71	260	0.00850
+Bacteroides fragilis	2044	S	2794	371	3165	0.10352
+Bacteroides thetaiotaomicron	450	S	2334	1995	4329	0.14159
+CAG-269 sp900556945	1668	S	336	1	337	0.01102
+UMGS75 sp900538885	1550	S	141	2	143	0.00468

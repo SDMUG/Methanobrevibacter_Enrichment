@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii_A	34	S	18424	7496	25920	0.55926
+Methanobrevibacter_A smithii	31	S	873	461	1334	0.02878
+Escherichia coli_D	3516	S	6395	10969	17364	0.37465
+Escherichia fergusonii	3525	S	161	248	409	0.00882
+Bacteroides cellulosilyticus	3457	S	268	156	424	0.00915
+Bacteroides ovatus	2098	S	145	361	506	0.01092
+Parabacteroides distasonis	3438	S	167	46	213	0.00460
+F0422 sp003999875	4251	S	126	47	173	0.00373

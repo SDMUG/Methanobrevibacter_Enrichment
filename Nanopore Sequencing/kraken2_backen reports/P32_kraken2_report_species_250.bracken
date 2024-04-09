@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Escherichia coli_D	3516	S	6350	12159	18509	0.64341
+Escherichia fergusonii	3525	S	120	222	342	0.01189
+UMGS1663 sp900753245	5719	S	158	134	292	0.01015
+Methanobrevibacter_A smithii	31	S	6237	3035	9272	0.32231
+Methanobrevibacter_A smithii_A	34	S	259	91	350	0.01217

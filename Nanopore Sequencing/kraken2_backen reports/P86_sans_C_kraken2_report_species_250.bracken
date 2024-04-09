@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii	31	S	69004	23871	92875	0.90503
+Methanobrevibacter_A smithii_A	34	S	2167	594	2761	0.02690
+Parabacteroides distasonis	3438	S	5484	325	5809	0.05661
+Bacteroides cellulosilyticus	3457	S	599	312	911	0.00888
+MGYG000001195	1856	S	262	1	263	0.00256

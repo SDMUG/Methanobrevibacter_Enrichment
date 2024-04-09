@@ -1,0 +1,12 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides ovatus	2098	S	8235	20251	28486	0.34869
+Bacteroides xylanisolvens	2057	S	3542	8095	11637	0.14245
+Bacteroides sp902362375	104	S	335	299	634	0.00776
+MGYG000002717	3753	S	157	188	345	0.00422
+Bacteroides acidifaciens	200	S	141	220	361	0.00442
+Bacteroides sp900765785	4424	S	105	230	335	0.00410
+Eubacterium callanderi	338	S	816	519	1335	0.01634
+HGM11788 sp900760465	2514	S	112	16	128	0.00157
+Eggerthella lenta	3564	S	879	233	1112	0.01361
+Methanobrevibacter_A smithii_A	34	S	27703	8089	35792	0.43812
+Methanobrevibacter_A smithii	31	S	1103	419	1522	0.01863

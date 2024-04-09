@@ -1,0 +1,5 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii	31	S	26059	6449	32508	0.77406
+Methanobrevibacter_A smithii_A	34	S	318	60	378	0.00900
+Escherichia coli_D	3516	S	2572	6347	8919	0.21237
+UMGS75 sp900538885	1550	S	180	10	190	0.00452

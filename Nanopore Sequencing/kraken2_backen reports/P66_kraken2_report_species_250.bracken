@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii	31	S	18497	6725	25222	0.40761
+Methanobrevibacter_A smithii_A	34	S	15892	4462	20354	0.32894
+Escherichia coli_D	3516	S	3201	10134	13335	0.21550
+Eubacterium callanderi	338	S	1367	1149	2516	0.04066
+CAG-269 sp900556945	1668	S	304	4	308	0.00498
+UMGS75 sp900538885	1550	S	137	4	141	0.00228

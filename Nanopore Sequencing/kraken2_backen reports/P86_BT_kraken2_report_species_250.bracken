@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Methanobrevibacter_A smithii_A	34	S	31492	9276	40768	0.80479
+Methanobrevibacter_A smithii	31	S	415	165	580	0.01145
+Escherichia coli_D	3516	S	1759	5889	7648	0.15098
+Bacteroides thetaiotaomicron	450	S	603	590	1193	0.02355
+Bacteroides cellulosilyticus	3457	S	291	34	325	0.00642
+UMGS1663 sp900753245	5719	S	112	28	140	0.00276

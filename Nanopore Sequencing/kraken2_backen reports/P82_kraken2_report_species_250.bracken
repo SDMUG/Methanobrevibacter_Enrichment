@@ -1,0 +1,18 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Escherichia coli_D	3516	S	7483	20350	27833	0.38748
+Escherichia fergusonii	3525	S	180	448	628	0.00874
+Escherichia albertii	3517	S	145	124	269	0.00374
+Citrobacter_B koseri	3503	S	116	127	243	0.00338
+Providencia rettgeri	5489	S	109	3	112	0.00156
+Bacteroides fragilis	2044	S	1193	341	1534	0.02136
+Bacteroides cellulosilyticus	3457	S	588	121	709	0.00987
+Bacteroides thetaiotaomicron	450	S	500	873	1373	0.01911
+Bacteroides uniformis	2058	S	240	131	371	0.00516
+Eggerthella lenta	3564	S	1695	752	2447	0.03407
+Atopobium minutum	5454	S	218	0	218	0.00303
+Finegoldia magna_H	1981	S	194	592	786	0.01094
+CAG-269 sp900556945	1668	S	417	19	436	0.00607
+Robinsoniella sp900539655	580	S	117	61	178	0.00248
+F0422 sp003999875	4251	S	368	202	570	0.00794
+Methanobrevibacter_A smithii_A	34	S	24873	8308	33181	0.46193
+Methanobrevibacter_A smithii	31	S	647	288	935	0.01302
