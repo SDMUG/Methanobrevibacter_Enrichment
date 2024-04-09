@@ -1,17 +1,3 @@
-#################################################################################
-
-############################# PCoA and CCA plot #################################
-
-## by Manuela Pausan adapted ##
-
-#################################################################################
-
-#################################################################################
-
-## load libraries ##
-
-#################################################################################
-
 
 devtools::install_github(c("david-barnett/microViz","jrnold/ggthemes","jbisanz/qiime2R","gmteunisse/Fantaxtic"))
 BiocManager::install("microbiomeMarker")
@@ -60,18 +46,18 @@ library("lefser")
 setwd("~/Enrichment")
 
 #read in otu table
-otu_table = read.table("eggnog_featuretable_ohnestadt_ohneP15Mpt1_P66_P51_P82.txt", sep = "\t", row.names = 1, header = TRUE, check.names = FALSE)
+otu_table = read.table("eggnog_featuretable.txt", sep = "\t", row.names = 1, header = TRUE, check.names = FALSE)
 otu_table = as.matrix(otu_table)
 print(otu_table)
 
 #read in taxonomy
 #separated by kingdom phylum class order family genus species
-taxonomy = read.table("tax_cog_bearbeitet_nachDPCOFGS.txt", row.names = 1, header=TRUE, fill=TRUE)
+taxonomy = read.table("tax_cog.txt", row.names = 1, header=TRUE, fill=TRUE)
 taxonomy = as.matrix(taxonomy)
 
 
 #read in metadata
-metadata = read.table("Metadata_withParticipants_withoutSex_withoutCH4_ohnestadt_ohneP15MPT1_P66_P51_P82.txt",row.names = 1, header = TRUE, sep = "\t")
+metadata = read.table("Metadata.txt",row.names = 1, header = TRUE, sep = "\t")
 # Create a data frame with the metadata
 sample_data <- data.frame(metadata)
 
