@@ -10,6 +10,6 @@ The following data are made public for the publication:
 * Nanopore:
   - All contigs
   - Kraken2 / Bracken reports
-  - GTbtk
-  - CheckM summary quality report
+  - GTbtk checkM summary 
+  - quality report
 * Metabolic prediction output
