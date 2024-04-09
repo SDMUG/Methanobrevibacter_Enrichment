@@ -9,8 +9,7 @@ The following data are made public for the publication:
   - ANI values and matrix
 * Nanopore:
   - All contigs
-  - Kraken2
-  - Bracken reports
+  - Kraken2 / Bracken reports
   - GTbtk
   - CheckM summary quality report
 * Metabolic prediction output
