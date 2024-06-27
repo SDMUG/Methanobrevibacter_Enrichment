@@ -12,4 +12,5 @@ The following data are made public for the publication:
   - Kraken2 / Bracken reports
   - GTbtk checkM summary 
   - quality report
+  - updated DS (figure + Kraken2 / Bracken)
 * Metabolic prediction output
